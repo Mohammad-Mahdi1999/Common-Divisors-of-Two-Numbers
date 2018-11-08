@@ -1,0 +1,2 @@
+1.Open Debug
+2.Run Common Divisors of Two Numbers
